@@ -1,0 +1,19 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo1": "node src/demo1/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/koa-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/koa-demo/issues"
+  },
+  "homepage": "https://github.com/HuYuee/koa-demo#readme"
+}
